@@ -29,6 +29,13 @@
 # MONGO_LOCAL_CONN_URL= //Conn URL of Mongo DB
 
 
+
+For testing ( these creds can be used in .env) :-
+SPREADSHEET_ID=1Oqtjz3IictMrpH4BYdxCmb1OutJfHQxcduqdrO4qHZ4
+MONGO_LOCAL_CONN_URL=mongodb+srv://ypritwani:Yash2904%40@knowledgehub-database-zu4vn.mongodb.net/BookingSite?retryWrites=true&w=majority
+
+
+
 # Using the app is simple :-
 
 ## 1. Open the home page 
