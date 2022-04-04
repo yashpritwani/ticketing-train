@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pinch-quiz",
+  "private_key_id": "03fb0df9cf2f2a87b97d12d2354287483b876dc2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa04ne3LxZdoVE\nGVhotiUtEnJSy+BxPSbPpq9nH4w9DLRNv6SuusUUEeCIGTzbtFx3cfmpi4VgtAXH\n3JDtMoCAIITdetDuz0xqfQIql79YXd4jJumc6PTxGZZM7YoUBQTg2WZR32iEgr2M\nWZ/GRfuSYcSpQLnmUL29vTihiJp1FZay5NSF0Sw72ocsBda1fnXTSV94oWYJHH49\ntczVSIVuawnsE9VGf1tRgbSxhAjgzhnmgzm77zvNkr8LTggKQ3fzwNTRiaHotfJR\n/oFYBbKdILIqMnxDYX6o3GfCmBSgnoJVxh69WkRpRwrIDHUTdcDByk+FRMRNsI50\nlqWxXclxAgMBAAECggEABt1rEy+GpvFZRJ0alU8BPDvBh7AMSD0ZxdKKW7hTgaf4\n7SsakFhN8X8+7U3wK742LOIn+6do7zIgQP3Dy86l0biPZ5og3jvhE6YuFMkkdfS4\niya4LEnMhY24wzmzmgJkdltRXP86zUhWQv081z/mYRXWcFpDO+X32cxEcO4jih4s\nqAy0C1wg5EcQeNeFic2nFeKYTGYKwW1WsWBrqxBFVyJR0rHMbHboOTC3Hiqoq48D\nmnBHo09EsmWcNrAD141vDDUhlAYlf8L2P3VF99OHljT+/1dzoypGjDYjucN0smnk\nY2vvYaxsxgu66jzqvGwe/QuBLG62np3nYqQraF6nOQKBgQDH/0WZdqQMIE2BpODG\nJJjda3O4UibWJioUccmDHaFd45wug6THGcqdBZQfg6mGRj/eW0TVq+35KXgFK7gh\naeDvdq7f5regulEYnu/blr1KLssu8QAOR4wwR3ojReXdDbglm73JxcNjZpaCORV/\n9B21XH9XJneDtQ/r7+mHeW4r2QKBgQDGLjX6pL1JIA8IBmFHYMSRkE95tvNUeoKb\na6UDYlBgQJU5HsuzjedC/BWNQsCXQ/NdegJKaxV3krBqcwpaHcGXqXHID+Dm7N/8\n2KlzvW3E1ddW0IqxrSA5qursUjecbH4YKMaHjCkgEZxaAHW+MmWFL8vcBP8Wvi1L\nC2qW1NUDWQKBgGfwly9mpWNX9nAGTHst0fRhP8bvixeIxh3R9TSbVZ4CCM1zxVNk\naBSrLYwjVRtfrxnUvTV/ITJ5BtNJIWzcJfbN65yZv51ct4DgOTAaa03+e8JtpeXF\n8Wm1/BgQ36G+25FQG5adnSovytDq8e2J5Va4N8YHS927YAbyrJ+n0EYhAoGAMYnP\nmG2hmyvWVg0yN+Nqf3BxTV18Cbvt9ee8gdILgWPjaTnXdXSdQFM/F+Z9udIUfWNI\nO031OcSDMLi897XEdKK4fGfrsg24F74Y7YOGctN5VowefzdlfMTKoHQUzpcYFfXr\nWmqgxRFh4eWHiRmT4u0FqmPdV9QGAmJCLJ3a+VECgYEAw79/5K/7O+N7KQXJI4i0\n+R87ZOlIp11Kxb6SFzxRUEZLGiKzeW6bGy7VJQqtDpWEBvvsp9/hXeqxH5ajmVxj\nU9Jqx4JrUxaBJpzSl+vkUP5EkuYgS+GZfdXOUuye3MQYwKoHZYoVHPQ0a9o4l5wa\n9mhDwOOFg63VMMylVGeMP/I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-read@pinch-quiz.iam.gserviceaccount.com",
+  "client_id": "111766041363897211452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-read%40pinch-quiz.iam.gserviceaccount.com"
+}
