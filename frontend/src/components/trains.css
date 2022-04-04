@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.weekDay{
+    padding-left: 5%;
+}
+.bookTicket{
+
+    padding: 2%;
+    background-color: rgb(44, 162, 44);
+    color: white;
+    font-size: 2em;
+    border-radius: 10%;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin-left: 40%; */
+    cursor: pointer;
+}
+.buttons{
+    text-align: center;
+    width: 50%;
+    margin: 5% 5% 0% 40%;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    display: flex;
+}
+.bookedTicket{
+    width: 20%;
+    height: 50px;
+    background-color: rgb(44, 48, 162);
+    color: white;
+    font-size: 1.2em;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.bookedTicket:hover{
+    width: 20%;
+    height: 50px;
+    background-color: white;
+    color: rgb(44, 48, 162);
+    font-size: 1.2em;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.bookTicket:hover{
+    cursor: pointer;
+    background-color: white;
+    color: green;
+}
+.header {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1%;
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+.plaintext{
+    text-align: center;
+    font-size: 2em;
+}
+.linked{
+    cursor: pointer;
+    color: blue;
+}
+.table {
+    margin: 5% 5%;
+}
+
+.content-table {
+    border-collapse: collapse;
+    margin: 10% 2px;
+    font-size: 1em;
+}
+
+.content-table thead tr {
+    font-family: "Montserrat";
+    background-color: #989898;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+    text-align: center;
+    font-family: "Montserrat";
+    padding: 30px 100px;
+}
+
+#status {
+    border-radius: 30px;
+    color: rgb(61, 40, 195);
+    font-weight: 700;
+}
+
+.action {
+    cursor: pointer;
+}
+
+.all__campaigns .payment__modal {
+    position: fixed;
+    top: 0;
+}
+.payment__modal {
+    width: 99vw;
+    height: 100vh;
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background: rgba(0, 0, 0, 0.288);
+}
+.payment__modal .form {
+    border-radius: 14px;
+    width: 60vw;
+    padding: 2%;
+    display: flex;
+    height: max-content;
+    flex-direction: column;
+    background: #fff;
+    position: relative;
+    top: 10%;
+    left: 20%;
+}
+.payment__modal .form h1 {
+    margin-bottom: 5%;
+}
+.payment__modal .form .form__header {
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.payment__modal .form .form__header img:hover{
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+}
+.payment__modal .form .payment__form {
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+}
+.payment__modal .form .payment__form input {
+    margin-bottom: 4%;
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.178);
+}
+.none{
+    display: none;
+}
+.payment__form button {
+    align-self: center;
+    padding: 10px;
+    width: 140px;
+    border-radius: 10px;
+    border: none;
+    background: #f53434;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+.payment__form button:hover{
+    border: 1px;
+    border-style: groove;
+    box-shadow: 0px 0px 1px 1px #ff0000;
+    background-color: #fff;
+    color: #ff0000;
+    cursor: pointer;
+}
+
+
+
